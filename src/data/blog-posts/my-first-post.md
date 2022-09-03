@@ -1,7 +1,7 @@
 ---
-title: My first Post
-publishDate: 03.09.2022
-description: Every blog starts with a single post. This is yours. Make it great.
+title: The Start
+publishDate: "03.09.2022"
+description: Welcome to my blog, this is my first post. I hope you enjoy.
 ---
 
 # Here We Go
