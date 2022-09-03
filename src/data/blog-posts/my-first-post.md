@@ -26,10 +26,10 @@ I want to document my journey and write about the stuff I learned to improve mys
 The Blog will also help me, so I can be kept accountable.
 
 **To summarize, the topics will be:**
-    - software
-    - writing
-    - finances
-    - self-improvement
+- software
+- writing
+- finances
+- self-improvement
 
 ## The Goal
 At last I want to tell you what my goal is, what I aspire to get from the blog.
