@@ -1,0 +1,9 @@
+---
+import AdminLayout from "../../layouts/AdminLayout.astro";
+
+const title = "Content Management System";
+const description = "This is the Back-End of my Blog here I can manage my articles!"
+const permalink = `${Astro.site.href}admin`
+---
+
+<AdminLayout title={title} description={description} permalink={permalink}/>
