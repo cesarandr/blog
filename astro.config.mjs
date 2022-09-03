@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cesar-blog.github.io',
+  site: 'https://cesarandr.github.io',
   base: '/blog',
   integrations: [mdx(), svelte()],
   markdown: {
