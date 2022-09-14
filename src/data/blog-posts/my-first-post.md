@@ -1,8 +1,8 @@
 ---
 
-title:Can I Edit
-description:Welcome to my blog, this is my first post. I hope you enjoy.
-publishDate:Sun Sep 4 2022
+title: Can I Edit
+description: Welcome to my blog, this is my first post. I hope you enjoy.
+publishDate: Sun Sep 4 2022
 
 ---
 
