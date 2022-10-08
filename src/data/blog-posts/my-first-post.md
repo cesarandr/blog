@@ -1,6 +1,6 @@
 ---
 
-title: Can I Edit
+title: This is my First Post
 description: Welcome to my blog, this is my first post. I hope you enjoy.
 publishDate: Sun Sep 4 2022
 
